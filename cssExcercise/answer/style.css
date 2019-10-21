@@ -1,0 +1,28 @@
+h1 {
+  font-size: 40px;
+  color: #a75b5b;
+}
+
+p {
+  font-family: helvetica, sans-serif;
+  line-height: 1.5;
+}
+
+li {
+  font-family: helvetica, sans-serif;
+  line-height: 1.5;
+}
+
+a {
+  color: green;
+}
+
+#date {
+  font-size: 14px;
+  font-family: helvetica, sans-serif;
+}
+
+.first {
+  font-size: 18px;
+  color: gray;
+}

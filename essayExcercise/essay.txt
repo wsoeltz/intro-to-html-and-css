@@ -40,4 +40,4 @@ At any point along the way you can save this file and refresh the page in your b
 
 Questions?
 
-If you have any questions don't hesitate to call me over. The answer is also included in the file called answer.html, but you should try to complete this as best you can using other resources first.
+If you have any questions don't hesitate to call me over. The answer is also included in the folder called "answer", but you should try to complete this as best you can using other resources first.
