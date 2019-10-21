@@ -1,0 +1,45 @@
+h1 {
+  font-size: 40px;
+  color: #a75b5b;
+
+  margin-bottom: 5px;
+}
+
+p {
+  font-family: helvetica, sans-serif;
+  line-height: 1.5;
+}
+
+li {
+  font-family: helvetica, sans-serif;
+  line-height: 1.5;
+}
+
+a {
+  color: green;
+}
+
+#date {
+  font-size: 14px;
+  font-family: helvetica, sans-serif;
+
+  margin-top: 0;
+}
+
+.first {
+  font-size: 18px;
+  color: gray;
+}
+
+#container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.box-list {
+  border: 1px solid lightgray;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
